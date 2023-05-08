@@ -12,7 +12,7 @@
 
 <details>
 <summary>
-<b>Значения функции(<a href ="sprint 1/A_Function_value.py">A_Function_value.py</a>) </b>
+<b>Значения функции(<a href ="Sprint1/A_Function_value.py">A_Function_value.py</a>) </b>
 </summary>
 
 #### Условие
